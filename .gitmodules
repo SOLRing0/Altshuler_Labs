@@ -1,0 +1,3 @@
+[submodule "AvInertia"]
+	path = AvInertia
+	url = https://github.com/charvey23/AvInertia.git
