@@ -1,0 +1,110 @@
+,type,corrected direction,velocity from plot,velocity from peak,
+nc3wu1,back,230.7,16.49975949,32,140.7
+nc10lm2,back,233.1,no data,,143.1
+nc12wu12,back,242.2,,4,152.2
+nc1wu2,back,250.2,16.88569194,16,160.2
+nc13lm1,back,264,8.836324412,16,174
+nc13lm2,back,276.7,,8,186.7
+nc3wu2,back,277.1,14.8758689,64,187.1
+nc11lm2a1,back,277.5,6.305424043,32,187.5
+nc5wu1,back,284.9,3.728579831,2,194.9
+nc7lm2,back,291.8,16.32,16,201.8
+nc12wu4,back,305,,4,215
+nc13wu9,down,143,,32,53
+nc9wu3,down,160.7,22.56743133,32,70.7
+nc14wu2,down,163.1,,2,73.1
+nc9wu4,down,169.7,25.92692176,128,79.7
+nc5lm3*,down,182.9,,32,92.9
+nc8wu1,down,197.1,16.53721678,16,107.1
+nc9wu1,down,200.8,,16,110.8
+nc4lm2*,down,201.7,no data,,111.7
+nc22LM2,down,206.1,99.61306585,32,116.1
+nc12wu9,down,206.3,,8,116.3
+nc5lm2*,down,206.8,15.64700537,128,116.8
+nc26lm1,down,210.6,99.42495899,32,120.6
+nc21lm1,down,214.9,43.70294513,,124.9
+nc28LM1,down,221.9,52.92141132,64,131.9
+nc3LM4,forward,45.8,not enough data,,
+nc7wu5,forward,45.8,7.800142525,8,
+nc3LM5,forward,57.7,not enough data,,
+nc20Lm1,forward,59.91,,64,
+nc9lm2a1,forward,63.7,0.511239936,1,
+nc13wu1,forward,68.7,,,
+nc14wu3,forward,69.4,,0.5,
+nc3LM1*,forward,70,cant trust,,
+nc6lm1*,forward,70.3,no data,,
+nc13w5,forward,73.1,,4,
+nc13wu10,forward,78.2,,2,
+nc17LM2,forward,80.2,127.445155,128,
+nc12wu6,forward,80.4,,32,
+nc13wu13,forward,81,,2,
+nc23LM1,forward,82.6,1.32704701,2,
+nc11wu6,forward,82.8,,0.5,
+nc10wu2,forward,83.5,0.500249079,1,
+nc12wu3,forward,84.1,,2,
+nc13wu7,forward,84.9,,8,
+nc3LM3,forward,85.5,cant trust,,
+nc11wu5,forward,85.7,,8,
+nc7wu3,forward,87.1,0.161209894,0.125,
+nc7wu6,forward,87.5,11.47095214,16,
+nc8wu2,forward,88.4,0.277761782,0.0625,
+nc25lm1,forward,89.4,14.7941537,4,
+nc13wu3,forward,90.1,,32,
+nc18LM1,forward,91.1,,4,
+nc5wu2,forward,91.1,1.60813505,2,
+nc14wu3b,forward,91.1,,0.5,
+nc4lm3*,forward,91.5,1.288945925,0.5,
+nc17LM1,forward,91.5,226.6,256,
+nc6lm3*,forward,91.7,no data,,
+nc11wu7,forward,92,,1.5,
+nc10lm1a1,forward,95,1.590554824,2,
+nc2wu1,forward,95.9,0.93904035,1,
+nc10wu1,forward,95.9,0.375192739,0.5,
+nc4wu3,forward,97,9.023526127,16,
+nc8wu3,forward,97.1,0.182506597,0.5,
+nc14lm2,forward,97.8,no data,,
+nc12lm1,forward,98,0.477961016,0.5,
+nc7wu4,forward,98.1,0.466490955,0.25,
+nc12wu2,forward,98.7,,32,
+nc11lm1a1,forward,100,0.684150862,0.5,
+nc4LM1*,forward,101.4,0.888779114,0.25,
+nc6lm5,forward,101.4,4.221126883,8,
+nc14lm1,forward,102.7,,0.25,
+nc6lm6,forward,103.5,2,4,
+nc10wu4,forward,104.2,18.95003763,32,
+nc25lm2,forward,104.8,0.459855651,0.25,
+nc13wu8,forward,108.3,,16,
+nc9lm3a1,forward,109.7,7.550713794,256,
+nc4lm4,forward,110.4,7.630392798,2,
+nc14wu4,forward,111.9,,0.25,
+nc12wu5,forward,116,,1,
+nc7wu2,forward,120.5,0.206033933,0.5,
+nc12lm2,forward,126,,2,
+nc13wu12,up,0.2,,4,
+nc8wu5,up,1.1,,16,
+nc8lm1a1,up,5.8,4.642809971,4,
+nc8lm4a1,up,7.3,21.53,16,
+nc15lm2,up,11.8,cant trust,,
+nc19LM1,up,33.1,,128,
+nc3LM2*,up,35.22,cant trust,,
+nc4wu1,up,317.2,11.70949496,16,
+nc6lm4*,up,320.2,no data,,
+nc27LM1,up,320.6,98.31697393,64,
+nc12wu7,up,322.6,,4,
+nc13wu11,up,322.6,,4,
+nc13wu6,up,325.1,,16,
+nc24LM1,up,325.3,187.2561891,64,
+nc7wu1,up,326.3,6.728510377,4,
+nc15lm3,up,328,,16,
+nc9wu5,up,329.7,17.17096143,32,
+nc13wu4,up,329.9,,8,
+nc12wu8,up,334.1,,8,
+nc22LM3,up,336.7,123.3454061,128,
+nc24lm2,up,336.8,15.0082778,16,
+nc10wu3,up,338.7,11.60374043,4,
+nc8wu4,up,339.4,9.98101808,32,
+nc12wu10,up,346.7,,1,
+nc22LM1,up,348.7,6.723880279,2,
+nc4wu2,up,350.4,17.09332547,64,
+nc2wu3,up,351.8,3.086580492,2,
+nc12lm3,up,357.1,32,32,
